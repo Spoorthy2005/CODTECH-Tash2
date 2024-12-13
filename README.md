@@ -47,3 +47,6 @@ Include a blog section to share personal thoughts or technical knowledge.
 Add a dark mode toggle for enhanced user experience.
 Integrate contact forms with backend services like EmailJS.
 Optimize the website for performance and SEO.
+
+![Screenshot 2024-08-28 191143](https://github.com/user-attachments/assets/a6d9f2cd-3e53-430e-83ae-f0ead68e7599)
+![Screenshot 2024-08-28 191208](https://github.com/user-attachments/assets/7b872e1f-9ca8-4ba7-a9bb-2c712bb14c8d)
